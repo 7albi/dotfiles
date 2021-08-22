@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = 7albi237@gmail.com
+	name = mohamed fadul
